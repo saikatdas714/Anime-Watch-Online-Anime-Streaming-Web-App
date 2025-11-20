@@ -1,4 +1,4 @@
-# 📺 Anime Watch — Online Anime Streaming Web App https://animewatch-saikat-das.netlify.app/
+# 📺 Anime Watch — Online Anime Streaming Web App https://anime-watch-saikat-das.netlify.app/
 Anime Watch is a lightweight and responsive web application made for streaming anime online.  
 It automatically fetches episode links from an open directory and displays them in a clean, easy-to-navigate interface.  
 The project focuses on simplicity, smooth video playback, and a modern user experience.
