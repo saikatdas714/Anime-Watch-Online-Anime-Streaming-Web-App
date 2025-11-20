@@ -7,7 +7,7 @@ The project focuses on simplicity, smooth video playback, and a modern user expe
 
 ## 🚀 Features
 
-- 🎞️ Online streaming of anime episodes (MP4)
+- 🎞️ Online streaming of anime episodes (MKV,MP4)
 - 📂 Automatic episode fetching from open directories
 - ▶️ Custom video player with autoplay & playsinline support
 - 📱 Fully responsive layout for all screen sizes
